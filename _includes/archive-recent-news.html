@@ -1,0 +1,9 @@
+{% include base_path %}
+
+<ul>
+{% for post in site.news reversed %}
+{% if forloop.index0 <= 2 %}
+<li> {% include archive-single-news.html %} </li>
+{% endif %}
+{% endfor %}
+</ul>
