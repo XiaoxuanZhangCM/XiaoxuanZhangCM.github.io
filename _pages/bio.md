@@ -5,7 +5,7 @@ permalink: /bio/
 author_profile: true
 ---
 
-A PDF version of my CV is available <a href="https://xiaoxuanzhangcm.github.io/files/CV-XiaoxuanZhang.pdf">here</a>.
+<!--A PDF version of my CV is available <a href="https://xiaoxuanzhangcm.github.io/files/CV-XiaoxuanZhang.pdf">here</a>.-->
 
 ## Education
 
