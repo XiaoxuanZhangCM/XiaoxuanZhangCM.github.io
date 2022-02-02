@@ -12,10 +12,10 @@ Note: <sup>#</sup> - equal contribution. <sup>$</sup> - corresponding author.
 <table style="width:100%; background-color:#D0D0D0; font-size:16px;"> <tr><td style="padding:0px 0px 0px 5px"><b>Under Review/Preprints</b></td> </tr></table>
 
 [16].
-W Bridgman<sup>#</sup>, <b>X Zhang</b><sup>#</sup>, G Teichert, M Khalil, K Garikipati, R Jones<sup>$</sup>. Prediction of failure locations in porous metals using convolutional neural networks, to be submitted. 
+W Bridgman<sup>#</sup>, <b>X Zhang</b><sup>#</sup>, G Teichert, M Khalil, K Garikipati, R Jones<sup>$</sup>. A heteroencoder architecture for prediction of failure locations in porous metals using variational inference, preprint at [arXiv:2202.00078](https://arxiv.org/abs/2202.00078). 
 
 [15].
-<b>X Zhang</b>, G Teichert, Z Wang, M Duschenes, S Srivastava, A Sunderarajan, E Livingston, K Garikipati<sup>$</sup>. mechanoChemML: A software library for machine learning in computational materials physics, preprint at [	arXiv:2112.04960](https://arxiv.org/abs/2112.04960). 
+<b>X Zhang</b>, G Teichert, Z Wang, M Duschenes, S Srivastava, A Sunderarajan, E Livingston, K Garikipati<sup>$</sup>. mechanoChemML: A software library for machine learning in computational materials physics, preprint at [arXiv:2112.04960](https://arxiv.org/abs/2112.04960). 
 
 [14].
 <b>X Zhang</b>, K Garikipati<sup>$</sup>. Bayesian neural networks for weak solution of PDEs with uncertainty quantification, preprint at [arXiv:2101.04879](https://arxiv.org/abs/2101.04879). 
