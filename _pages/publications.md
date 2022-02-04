@@ -10,6 +10,8 @@ You can also find my papers on <a href="https://scholar.google.com/citations?use
 Note: <sup>#</sup> - equal contribution. <sup>$</sup> - corresponding author.
 
 <table style="width:100%; background-color:#D0D0D0; font-size:16px;"> <tr><td style="padding:0px 0px 0px 5px"><b>Under Review/Preprints</b></td> </tr></table>
+[17].
+Y Qiu, <b>X Zhang</b>, C Usubelli, D Mayer, C Linder, J Christensen <sup>$</sup>. Understanding thermal and mechanical effects on lithium plating in lithium-ion batteries, submitted.
 
 [16].
 W Bridgman<sup>#</sup>, <b>X Zhang</b><sup>#</sup>, G Teichert, M Khalil, K Garikipati, R Jones<sup>$</sup>. A heteroencoder architecture for prediction of failure locations in porous metals using variational inference, preprint at [arXiv:2202.00078](https://arxiv.org/abs/2202.00078). 
