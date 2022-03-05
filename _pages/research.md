@@ -16,8 +16,8 @@ My research centers on developing novel theories, methods, and tools to advance 
 <h3>Application-specific </h3>
 * [Si electrode material](high-energy-density-electrode-material)
 * [Lithium-ion batteries](mechanics-in-lithium-ion-batteriesl)
+* [Solid-state batteries](ssb)
 * [Biomembrane mechanics](biological-membrane-mechanics)
-* [Solid-state lithium-ion batteries modeling](ssb)
 
 
 <h2>SciML</h2>
