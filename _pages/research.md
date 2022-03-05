@@ -29,7 +29,7 @@ My research centers on developing novel theories, methods, and tools to advance 
 <h3>Generalized </h3>
 
 * [Data-driven homogenization](research-past/data-driven-homogenization)
-* [Machine learning for PDE solutions test](research/nn-based-pde-solver)
+* [Machine learning for PDE solutions](research-nn-based-pde-solver)
 
 <h3>Application-specific </h3>
 * [Data-driven modeling of crack initiation in 3D printed metal parts](research-current/am-porosity)

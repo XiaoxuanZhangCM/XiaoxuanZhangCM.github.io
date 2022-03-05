@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Machine learning for PDE solutions"
-permalink: /research/nn-based-pde-solver
+permalink: /research-nn-based-pde-solver/
 author_profile: true
 ---
 
