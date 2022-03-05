@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## University of Michigan, Ann Arbor
+### University of Michigan, Ann Arbor
 Activity: teach 25% of the course content (enrolled student: 104)
 
 <ul>
@@ -15,7 +15,7 @@ Activity: teach 25% of the course content (enrolled student: 104)
 </li>
 </ul>
 
-## Stanford University
+### Stanford University
 Activity: deliver computational lab lectures, hold office hours, and grade assignments (typically with 10-25 students).
 
 <ul>
