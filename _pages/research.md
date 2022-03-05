@@ -1,9 +1,11 @@
 ---
-layout: archive
 title: "Research"
+excerpt: "Research"
 permalink: /research/
 author_profile: true
 ---
+
+{% include base_path %}
 
 My research centers on developing novel theories, methods, and tools to advance scientific computing. I am particularly interested in developing physics-based models and scientific machine learning methods (SciML) to address generalized computational challenges and application-specific challenges for computational discovery, material optimization, and smart manufacturing. 
 
