@@ -58,6 +58,8 @@ author_profile: true
 <ul>
 <li> 
 <b>Journal Reviewer </b>
+<br>Engineering Failure Analysis
+<br>Journal of Machine Learning for Modeling and Computing
 <br>International Journal of Fracture
 <br>International Journal for Numerical and Analytical Methods in Geomechanics
 <br>Engineering Fracture Mechanics
