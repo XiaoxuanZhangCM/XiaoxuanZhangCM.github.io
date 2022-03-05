@@ -18,10 +18,9 @@ My research centers on developing novel theories, methods, and tools to advance 
   * [Solid-state batteries](ssb)
   * [Biomembrane mechanics](biological-membrane-mechanics)
 
-<h3>SciML</h3>
+<h3>Scientific machine learning methods </h3>
 * Generalized model
   * [Data-driven homogenization](data-driven-homogenization)
   * [Machine learning for PDE solutions](nn-based-pde-solver)
 * Application-specific model
   * [Data-driven modeling of crack initiation in 3D printed metal parts](am-porosity)
-
