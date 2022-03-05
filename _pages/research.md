@@ -5,18 +5,25 @@ permalink: /research/
 author_profile: true
 ---
 
+My research centers on developing novel theories, methods, and tools to advance scientific computing. I am particularly interested in developing physics-based models and scientific machine learning methods (SciML) to address generalized computational challenges and application-specific challenges for computational discovery, material optimization, and smart manufacturing. 
 
-My research centers on developing novel theories, methods, and tools to advance scientific computing. I am particularly interested in developing accurate, robust, and efficient multiphysics, multiscale, and data-driven computational models. I collaborate with experts from different fields to solve challenging science and engineering problems. Following are descriptions of my current projects and some snapshots of my past projects. 
+<p style="text-align:center">
+<img src="/images/research/overview.png" alt="" width="150px" > 
 
-<h3>Current projects </h3>
-{% include archive-recent-research.html %} 
+<h3>Physics-based models </h3>
+<h5>Generalized </h5>
+* [Fracture modeling](/research-past/fracture-modeling/)
+<h5>Application-specific </h5>
+* [Si electrode material](/research-past/high-energy-density-electrode-material/)
+* [Lithium-ion batteries](/research-past/mechanics-in-lithium-ion-batteriesl/)
+* [Biomembrane mechanics](/research-past/biological-membrane-mechanics/)
+* [Solid-state lithium-ion batteries modeling](/research-current/ssb)
 
-<h3>Past projects </h3>
-<nbsp>
 
-{% include base_path %}
-
-{% for post in site.research%}
-  {% include archive-single.html type="grid" %}
-{% endfor %}
+<h3>Scientific machine learning methods</h3>
+<h5>Generalized </h5>
+* [Data-driven homogenization](/research-past/data-driven-homogenization/)
+* [Machine learning for PDE solutions](/research-current/nn-based-pde-solver)
+<h5>Application-specific </h5>
+* [Data-driven modeling of crack initiation in 3D printed metal parts](/research-current/am-porosity)
 
