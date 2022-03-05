@@ -2,7 +2,7 @@
 title: "Data-driven modeling of crack initiation in 3D printed metal parts"
 excerpt: "<img src='' alt=''>"
 collection: research_current
-permalink: /research-current/am-porosity
+permalink: /research/am-porosity
 header: 
   og_image: ""
 ---
