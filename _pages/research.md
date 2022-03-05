@@ -11,15 +11,13 @@ My research centers on developing novel theories, methods, and tools to advance 
 
 <b>Physics-based models </b>
 * [Fracture modeling](fracture-modeling)
-
-<b>SciML methods</b>
-* [Data-driven homogenization](data-driven-homogenization)
-* [Machine learning for PDE solutions](nn-based-pde-solver)
-
-<b>Applications </b>
 * [(Bat) Silicon electrode material](high-energy-density-electrode-material)
 * [(Bat) Lithium-ion batteries](mechanics-in-lithium-ion-batteriesl)
 * [(Bat) Solid-state batteries](ssb)
 * [(Bio) Biomembrane mechanics](biological-membrane-mechanics)
+
+<b>SciML methods</b>
+* [Data-driven homogenization](data-driven-homogenization)
+* [Machine learning for PDE solutions](nn-based-pde-solver)
 * [(AM) Crack initiation in 3D printed metal parts](am-porosity)
 

@@ -7,7 +7,7 @@ author_profile: true
 
 <!--A PDF version of my CV is available <a href="https://xiaoxuanzhangcm.github.io/files/CV-XiaoxuanZhang.pdf">here</a>.-->
 
-### Education
+## Education
 
 <ul>
 <li> 
@@ -27,7 +27,7 @@ author_profile: true
 </li>
 </ul>
 
-### Employment
+## Employment
 
 <ul>
 <li> 
@@ -54,7 +54,7 @@ author_profile: true
 </ul>
 
 
-### Service
+## Service
 <ul>
 <li> 
 <b>Journal Reviewer </b>

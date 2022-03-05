@@ -9,7 +9,7 @@ author_profile: true
 
 Feel free to consult me on using the following tools!
 
-### Computational libraries/software that I have contributed to or used in my research:
+## Computational libraries/software that I have contributed to or used in my research:
 * [mechanoChemML](https://github.com/mechanoChem/mechanoChemML) developed by [The Computational Physics Group](http://www.umich.edu/~compphys/index.html) @ UM
 * [mechanoChemFEM](https://github.com/mechanoChem/mechanoChemFEM) developed by [The Computational Physics Group](http://www.umich.edu/~compphys/index.html) @ UM
 * [mechanoChemIGA](https://github.com/mechanoChem/mechanoChemIGA) developed by [The Computational Physics Group](http://www.umich.edu/~compphys/index.html) @ UM
@@ -19,7 +19,7 @@ Feel free to consult me on using the following tools!
 * [TensorFlow](https://github.com/tensorflow/tensorflow) developed by the Google Brain team
 
 
-### Other tools that I frequently use in my research:
+## Other tools that I frequently use in my research:
 * Visualization tool: [ParaView](https://www.paraview.org/gallery/), [Matplotlib](https://matplotlib.org/)
 * Text editing: [Vim](https://www.vim.org/download.php), [Latex](https://www.latex-project.org/), [Latex-Suite](http://vim-latex.sourceforge.net/documentation/latex-suite-quickstart.html)
 * Scientific drawing: [Inkscape](https://inkscape.org/)
