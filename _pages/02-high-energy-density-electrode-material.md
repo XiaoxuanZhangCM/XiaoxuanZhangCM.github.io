@@ -2,7 +2,7 @@
 title: "Si electrode material"
 excerpt: "<img src='/images/research/si.png' alt=''>"
 collection: research
-permalink: /research-past/high-energy-density-electrode-material/
+permalink: /research/high-energy-density-electrode-material/
 header: 
   og_image: "research/si.png"
 ---

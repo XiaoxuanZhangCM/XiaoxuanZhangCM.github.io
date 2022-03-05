@@ -2,7 +2,7 @@
 title: "Data-driven homogenization"
 excerpt: "<img src='/images/research/rve.png' alt=''>"
 collection: research
-permalink: /research-past/data-driven-homogenization/
+permalink: /research/data-driven-homogenization/
 header: 
   og_image: "research/rve.png"
 ---

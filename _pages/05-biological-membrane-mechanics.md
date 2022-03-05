@@ -2,7 +2,7 @@
 title: "Biomembrane mechanics"
 excerpt: "<img src='/images/research/bio.png' alt=''>"
 collection: research
-permalink: /research-past/biological-membrane-mechanics/
+permalink: /research/biological-membrane-mechanics/
 header: 
   og_image: "research/bio.png"
 ---

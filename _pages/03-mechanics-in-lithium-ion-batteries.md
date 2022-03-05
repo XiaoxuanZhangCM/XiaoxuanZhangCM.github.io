@@ -2,7 +2,7 @@
 title: "Lithium-ion batteries"
 excerpt: "<img src='/images/research/libs.png' alt=''>"
 collection: research
-permalink: /research-past/mechanics-in-lithium-ion-batteriesl/
+permalink: /research/mechanics-in-lithium-ion-batteriesl/
 header: 
   og_image: "research/libs.png"
 ---

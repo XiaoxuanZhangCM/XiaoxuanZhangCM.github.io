@@ -2,7 +2,7 @@
 title: "Solid-state lithium-ion batteries modeling"
 excerpt: "<img src='' alt=''>"
 collection: research_current
-permalink: /research-current/ssb
+permalink: /research/ssb
 header: 
   og_image: ""
 ---

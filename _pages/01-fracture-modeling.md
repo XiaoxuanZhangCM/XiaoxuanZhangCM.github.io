@@ -2,7 +2,7 @@
 title: "Fracture modeling"
 excerpt: "<img src='/images/research/efem.png' alt=''>"
 collection: research
-permalink: /research-past/fracture-modeling/
+permalink: /research/fracture-modeling/
 header: 
   og_image: "research/efem.png"
 ---
