@@ -24,8 +24,6 @@ Groups that I have worked with or collaborated with:
 
 My research centers on developing novel theories, methods, and tools to advance scientific computing. I am particularly interested in developing physics-based models and scientific machine learning methods (SciML) to address generalized computational challenges and application-specific challenges for computational discovery, material optimization, and smart manufacturing. 
 
-<p style="text-align:center">
-<img src="/images/research/overview.png" alt="" width="300px" > 
 
 <h2>Physics-based models </h2>
 <h3>Generalized </h3>
