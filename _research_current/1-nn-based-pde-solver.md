@@ -1,10 +1,8 @@
 ---
+layout: archive
 title: "Machine learning for PDE solutions"
-excerpt: "<img src='' alt=''>"
-collection: research_current
 permalink: /research-current/nn-based-pde-solver
-header: 
-  og_image: ""
+author_profile: true
 ---
 
 ### Develop data-driven models for weak solutions of PDE with uncertainty quantification
