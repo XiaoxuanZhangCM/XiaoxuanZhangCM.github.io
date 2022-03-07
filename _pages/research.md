@@ -7,11 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-<p style="text-align:center">
-<img src="https://xiaoxuanzhangcm.github.io/images/research/overview.png" alt="" width="300px" > 
-</p>
-
-My research centers on developing novel theories, methods, and tools to advance scientific computing. I am particularly interested in developing physics-based models and scientific machine learning (SciML) methods to address generalized computational challenges and application-specific challenges for computational discovery, material optimization, and smart manufacturing. I work on applications such as rechargeable batteries (Bat), biological materials (Bio), and additive manufacturing (AM).
+<img src="https://xiaoxuanzhangcm.github.io/images/research/overview.png" alt="right" width="270px" /> 
+<p>My research centers on developing novel theories, methods, and tools to advance scientific computing. I am particularly interested in developing physics-based models and scientific machine learning (SciML) methods to address generalized computational challenges and application-specific challenges for computational discovery, material optimization, and smart manufacturing. I work on applications such as rechargeable batteries (Bat), biological materials (Bio), and additive manufacturing (AM).</p>
 
 <b>Physics-based models </b>
 * [Fracture modeling](fracture-modeling)
